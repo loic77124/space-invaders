@@ -47,5 +47,5 @@ Lors du lancement, le module HandLandmarker se télécharge automatiquement si n
 -Main ouverte : ENTER
 
 -Deux doigts en l’air ou tendus : FIRE
--
-Poing fermé horizontal, déplacé à gauche ou à droite : LEFT ou RIGHT
+
+-Poing fermé horizontal, déplacé à gauche ou à droite : LEFT ou RIGHT
